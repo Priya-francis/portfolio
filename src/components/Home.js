@@ -69,7 +69,7 @@ const Home = () => {
 
   
   <a 
-  href="/Resume_Priya_2025.pdf" 
+  href="/Priya_Francis.pdf" 
   target="_blank" 
   rel="noopener noreferrer"
 >
