@@ -18,37 +18,37 @@ const projectData = [
    {
     title: "Thulir Health Care",
     description: "React, NodeJs ,ExpressJs",
-    link: "http://thulirclinic.prijo.shop/",
+    link: "https://thulir-health-care.onrender.com/#/",
     image: thulir,
   },
   {
     title: "Weather App",
     description: "React, OpenWeatherMap API",
-    link: "http://weatherapp.prijo.shop/",
+    link: "https://weatherapp-sar8.onrender.com/",
     image: weather,
   },
   {
     title: "Todo List",
     description: "React, useState",
-    link: "http://todolist.prijo.shop/",
+    link: "https://todo-list-pv42.onrender.com/",
     image: todo,
   },
   {
     title: "Expense Tracker",
     description: "React, Chart.js",
-    link: "http://expensetracker.prijo.shop/",
+    link: "https://expense-tracker-new-c77d.onrender.com/",
     image: expense,
   },
   {
     title: "Calculator",
     description: "React, CSS",
-    link: "http://calculator.prijo.shop/",
+    link: "https://calculator-new-5pe6.onrender.com/",
     image: calc,
   },
   {
     title: "Hike Calculator",
     description: "React, Styled Components",
-    link: "http://hikecalculator.prijo.shop/",
+    link: "https://hikecalculator.onrender.com/",
     image: hike,
   },
 ];

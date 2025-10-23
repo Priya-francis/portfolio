@@ -10,7 +10,7 @@ const About = () => {
         <img src={profilePic} alt="Profile" className="about-image" />
         <div className="about-text">
           <p>
-            Hello! I'm <strong>Priya Francis</strong>, a passionate <strong>Frontend Developer</strong> from Coimbatore, India with 5 years of professional experience, including 3 months in frontend development and 5 years in production support.
+            Hello! I'm <strong>Priya Francis</strong>, a passionate <strong>Frontend Developer</strong> from Coimbatore, India with 5 years of professional experience, including 2 years in frontend development and 3 years in production support.
           </p>
           <p>
             I specialize in building responsive, user-friendly web applications using technologies like<strong> ReactJS, JavaScript, HTML5, CSS3, Redux, Tailwind CSS and React Bootstrap. </strong> I also have hands-on experience with <strong>Node.js, Express.js and MongoDB</strong> in full-stack environments.
